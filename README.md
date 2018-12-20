@@ -4,8 +4,8 @@ Basic calculator application built using html, css and javascript.
 
 ## Firefox
 
-[!picture](firefox.png)
+![picture](firefox.png)
 
 ## Android Chrome
 
-[!picture](android-chrome.png)
+![picture](android-chrome.png)
