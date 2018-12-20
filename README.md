@@ -6,6 +6,3 @@ Basic calculator application built using html, css and javascript.
 
 ![picture](firefox.png)
 
-## Android Chrome
-
-![picture](android-chrome.png)
