@@ -1,0 +1,63 @@
+/*---------------------- Atick Faisal, 2018 ----------------------*/
+*{
+    padding: 0;
+    margin: 0;
+    }
+    .main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background: #000000;
+    }
+    .button {
+    width: 70;
+    height: 70;
+    border: none;
+    background: #272727;
+    color: #FAFAFA;
+    cursor: pointer;
+    }
+    .equal_button {
+    background: #E65100;
+    width: 70;
+    height: 70;
+    border: none;
+    color: #FAFAFA;
+    cursor: pointer;
+    }
+    .special_button {
+    width: 70;
+    height: 70;
+    border: none;
+    background: #171717;
+    color: #FAFAFA;
+    cursor: pointer;
+    }
+    .input {
+    width: 286;
+    margin-left: 2;
+    height: 50;
+    font-size: 32;
+    padding: 10;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: #EEEEEE;
+    text-align: end;
+    background: #171717;
+    }
+    .output {
+    width: 286;
+    margin-left: 2;
+    height: 60;
+    font-size: 40;
+    text-align: end;
+    padding: 10;
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    color: #FFFFFF;
+    background: #171717;
+    }
+    .body {
+    background: #000000;
+    }
