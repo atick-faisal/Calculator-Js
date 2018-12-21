@@ -1,0 +1,19 @@
+{
+  "name": "atick-faisal.bitbucket.io",
+  "version": "1.0.0",
+  "description": "Basic calculator application built using html, css and javascript.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atick-faisal@bitbucket.org/atick-faisal/atick-faisal.bitbucket.io.git"
+  },
+  "author": "Atick Faisal",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/atick-faisal/atick-faisal.bitbucket.io#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
